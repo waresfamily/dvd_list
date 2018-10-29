@@ -315,6 +315,11 @@
 		"Genre": "Comedy"
 	},
 	{
+		"Title": "Band of Brothers",
+		"Media": "DVD",
+		"Genre": "War"
+	},
+	{
 		"Title": "Barefoot in the Park",
 		"Media": "DVD",
 		"Genre": "Comedy, Romance"
@@ -493,6 +498,11 @@
 		"Title": "The Blues Brothers (DVD)",
 		"Media": "DVD",
 		"Genre": "Comedy, 1980's"
+	},
+	{
+		"Title": "Bombshell - The Hedy Lamarr Story",
+		"Media": "DVD",
+		"Genre": "Documentary, Biography, History"
 	},
 	{
 		"Title": "Bonanza - vol 1",
@@ -1423,6 +1433,11 @@
 		"Title": "The Fifth Element",
 		"Media": "DVD",
 		"Genre": "Sci FI, Thriller, Action"
+	},
+	{
+		"Title": "Final Portrait",
+		"Media": "DVD",
+		"Genre": "Biography, Comedy"
 	},
 	{
 		"Title": "Fire Down Below",
@@ -4043,6 +4058,21 @@
 		"Title": "Somm",
 		"Media": "DVD",
 		"Genre": "Documentary, TV Movie"
+	},
+	{
+		"Title": "The Sopranos - S04",
+		"Media": "DVD",
+		"Genre": "Crime"
+	},
+		{
+		"Title": "The Sopranos - S05",
+		"Media": "DVD",
+		"Genre": "Crime"
+	},
+	{
+		"Title": "The Sopranos - S06",
+		"Media": "DVD",
+		"Genre": "Crime"
 	},
 	{
 		"Title": "Soul Surfer",

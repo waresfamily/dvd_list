@@ -251,6 +251,10 @@
 		"Title": "Bad Teacher",
 		"Media": "DVD"
 	},
+		{
+		"Title": "Band of Brothers",
+		"Media": "DVD"
+	},
 	{
 		"Title": "Barefoot in the Park",
 		"Media": "DVD"
@@ -393,6 +397,10 @@
 	},
 	{
 		"Title": "The Blues Brothers (DVD)",
+		"Media": "DVD"
+	},
+		{
+		"Title": "Bombshell - The Hedy Lamarr Story",
 		"Media": "DVD"
 	},
 	{
@@ -1137,6 +1145,10 @@
 	},
 	{
 		"Title": "The Fifth Element",
+		"Media": "DVD"
+	},
+		{
+		"Title": "Final Portrait",
 		"Media": "DVD"
 	},
 	{
@@ -3233,6 +3245,18 @@
 	},
 	{
 		"Title": "Somm",
+		"Media": "DVD"
+	},
+	{
+		"Title": "The Sopranos - S04",
+		"Media": "DVD"
+	},
+	{
+		"Title": "The Sopranos - S05",
+		"Media": "DVD"
+	},
+	{
+		"Title": "The Sopranos - S06",
 		"Media": "DVD"
 	},
 	{
